@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umeshmishra123
+- 👋 Hi, I’m Umesh Mishra|Aspiring Data Scientist
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on data science and machine learning projects
 - 📫 How to reach me : umeshmishra0005@gmail.com
